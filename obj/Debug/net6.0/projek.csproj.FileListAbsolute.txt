@@ -1,0 +1,72 @@
+E:\NET\projek\bin\Debug\net6.0\projek.exe
+E:\NET\projek\bin\Debug\net6.0\projek.deps.json
+E:\NET\projek\bin\Debug\net6.0\projek.runtimeconfig.json
+E:\NET\projek\bin\Debug\net6.0\projek.dll
+E:\NET\projek\bin\Debug\net6.0\projek.pdb
+E:\NET\projek\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.Compute.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.Core.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.Graphics.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.Input.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.Mathematics.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.OpenAL.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+E:\NET\projek\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+E:\NET\projek\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\NET\projek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\NET\projek\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+E:\NET\projek\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+E:\NET\projek\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+E:\NET\projek\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+E:\NET\projek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NET\projek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NET\projek\bin\Debug\net6.0\LearnOpenTK.Common.dll
+E:\NET\projek\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+E:\NET\projek\obj\Debug\net6.0\projek.csproj.AssemblyReference.cache
+E:\NET\projek\obj\Debug\net6.0\projek.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\projek\obj\Debug\net6.0\projek.AssemblyInfoInputs.cache
+E:\NET\projek\obj\Debug\net6.0\projek.AssemblyInfo.cs
+E:\NET\projek\obj\Debug\net6.0\projek.csproj.CoreCompileInputs.cache
+E:\NET\projek\obj\Debug\net6.0\projek.csproj.CopyComplete
+E:\NET\projek\obj\Debug\net6.0\projek.dll
+E:\NET\projek\obj\Debug\net6.0\refint\projek.dll
+E:\NET\projek\obj\Debug\net6.0\projek.pdb
+E:\NET\projek\obj\Debug\net6.0\projek.genruntimeconfig.cache
+E:\NET\projek\obj\Debug\net6.0\ref\projek.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\projek.exe
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\projek.deps.json
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\projek.runtimeconfig.json
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\projek.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\ref\projek.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\projek.pdb
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.Core.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.Input.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.OpenAL.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\Visual Studio Community\Projek\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.csproj.AssemblyReference.cache
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.AssemblyInfo.cs
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.csproj.CopyComplete
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.dll
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\ref\projek.dll
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.pdb
+D:\Visual Studio Community\Projek\obj\Debug\net6.0\projek.genruntimeconfig.cache
